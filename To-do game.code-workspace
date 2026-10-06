@@ -1,0 +1,30 @@
+{
+    "liveServer.settings.donotShowInfoMsg": true,
+    "[jsonc]": {
+        "editor.defaultFoldingRangeProvider": "vscode.html-language-features"
+    },
+    "workbench.iconTheme": "vscode-icons",
+    "js/ts.preferences.organizeImports": {},
+    "json.schemas": [],
+    "editor.wordWrap": "on",
+    "liveServer.settings.ChromeDebuggingAttachment": true,
+    "terminalRipgrep.additionalArgs": [
+        "--color=always",
+        "-n",
+        "--column"
+    ],
+    "files.autoSave": "afterDelay",
+    "liveServer.settings.CustomBrowser": "chrome",
+	"liveServer.settings.root": "/",
+	"folders": [
+		{
+			"path": "../To-do game"
+		},
+		{
+			"path": "."
+		}
+	],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "stone paper game"
+    }
+}
