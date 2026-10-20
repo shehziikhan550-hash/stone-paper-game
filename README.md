@@ -1,1 +1,1 @@
-# stone-paper-game
+# Rock-scissors-paper-game
